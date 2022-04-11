@@ -21,3 +21,13 @@ nav{
     min-height: 500px;
     border: 1px solid black;
 }
+
+.about{
+    width: 100%;
+    background-color: #1abc9c;
+    min-height: 700px;
+}
+
+.boxs{
+    margin-bottom: 50px;
+}
