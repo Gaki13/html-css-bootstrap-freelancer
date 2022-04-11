@@ -31,3 +31,8 @@ nav{
 .boxs{
     margin-bottom: 50px;
 }
+.form{
+    width: 100%;
+    background-color: gray;
+    min-height: 500px;
+}
