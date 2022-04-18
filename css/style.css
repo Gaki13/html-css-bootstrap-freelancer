@@ -1,13 +1,15 @@
 /*-----------
   COMMONS
 ------------*/
-.row{
-    color: white;
-}
+
 
 /*-----------
    HEADER
 ------------*/
+header{
+    color: white;
+}
+
 nav{
     width: 100%;
     background-color: #2c3e50;
@@ -29,7 +31,6 @@ nav{
 .star hr{
     height: 5px;
     width: 75px;
-    color: white;
     opacity: 1;
     border-radius: 2.5px;
 }
@@ -41,11 +42,12 @@ nav{
 /*-----------
     MAIN
 ------------*/
-.boxs [class*="col"]{
+/* .boxs [class*="col"]{
     background-color: aqua;
     min-height: 500px;
     border: 1px solid black;
-}
+} */
+
 
 .about{
     width: 100%;
